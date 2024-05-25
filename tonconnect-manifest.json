@@ -1,7 +1,7 @@
 {
-    "url": "notcoin",                        
-    "name": "notcoin",                      
-    "iconUrl": "./image/logo.png",               
+    "url": "https://lekitcat.github.io/notcoin/",
+    "name": "Notcoin",
+    "iconUrl": "https://lekitcat.github.io/notcoin/favicon.png",               
     "termsOfUseUrl": "<terms-of-use-url>",     
     "privacyPolicyUrl": "<privacy-policy-url>" 
 }
