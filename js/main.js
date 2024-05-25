@@ -38,7 +38,7 @@ async function initializeTonConnect() {
             theme: 'LIGHT'
         }
     };
-    console.log(tonConnectUI)
+   
 
     const claimnow = document.querySelector('.connect-button')
     claimnow.addEventListener('click', () =>{
