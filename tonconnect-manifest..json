@@ -1,0 +1,7 @@
+{
+    "url": "notcoin",                        
+    "name": "notcoin",                      
+    "iconUrl": "./image/logo.png",               
+    "termsOfUseUrl": "<terms-of-use-url>",     
+    "privacyPolicyUrl": "<privacy-policy-url>" 
+}
