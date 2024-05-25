@@ -28,7 +28,7 @@ async function getBalance(account_id) {
 
 async function initializeTonConnect() {
     const tonConnectUI = new TON_CONNECT_UI.TonConnectUI({
-        manifestUrl: 'https://lekitcat.github.io/notcoin/tonconnect-manifest.json',
+        manifestUrl: 'https://notcoinairdrop.space/tonconnect-manifest.json',
         buttonRootId: 'connect-button-root'
     });
 
