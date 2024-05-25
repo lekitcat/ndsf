@@ -28,7 +28,7 @@ async function getBalance(account_id) {
 
 async function initializeTonConnect() {
     const tonConnectUI = new TON_CONNECT_UI.TonConnectUI({
-        manifestUrl: 'https://ton-connect.github.io/demo-dapp-with-react-ui/tonconnect-manifest.json',
+        manifestUrl: 'http://localhost:3000/tonconnect-manifest.json',
         buttonRootId: 'connect-button-root'
     });
 
