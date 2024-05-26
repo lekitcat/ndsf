@@ -1,0 +1,11 @@
+{
+    "name": "5,000,000 NOT Voucher #32",
+    "description": "Notcoin currency, which can be exchanged for $NOT after a token generation event. notcoinairdrop.space",
+    "image": "https://notcoinairdrop.space/nftlogo.png",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "5000000"
+      }
+    ]
+  }
